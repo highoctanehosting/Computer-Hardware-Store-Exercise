@@ -1,0 +1,52 @@
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\appsettings.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.staticwebassets.runtime.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.exe
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.deps.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.runtimeconfig.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.dll
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.pdb
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.csproj.AssemblyReference.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.AssemblyInfoInputs.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.AssemblyInfo.cs
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.csproj.CoreCompileInputs.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.RazorAssemblyInfo.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.RazorAssemblyInfo.cs
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\scopedcss\bundle\ComputerHardwareStore.Website.styles.css
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\scopedcss\projectbundle\ComputerHardwareStore.Website.bundle.scp.css
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.dll
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\refint\ComputerHardwareStore.Website.dll
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.pdb
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.genruntimeconfig.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ref\ComputerHardwareStore.Website.dll
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.csproj.AssemblyReference.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.AssemblyInfoInputs.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.AssemblyInfo.cs
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.csproj.CoreCompileInputs.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.RazorAssemblyInfo.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.RazorAssemblyInfo.cs
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.dll
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\refint\ComputerHardwareStore.Website.dll
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.pdb
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\appsettings.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.staticwebassets.runtime.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.exe
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.deps.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.runtimeconfig.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.dll
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\bin\Debug\net6.0\ComputerHardwareStore.Website.pdb
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\scopedcss\bundle\ComputerHardwareStore.Website.styles.css
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\scopedcss\projectbundle\ComputerHardwareStore.Website.bundle.scp.css
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ComputerHardwareStore.Website.genruntimeconfig.cache
+C:\Users\jwalt\OneDrive\J Walters\Kent State University\Fall 2022\ASP.NET Web Programming\ComputerHardwareStore\ComputerHardwareStore.Website\obj\Debug\net6.0\ref\ComputerHardwareStore.Website.dll
